@@ -45,4 +45,4 @@ var_dump($events);
 > All responses are [SimpleXMLElement](http://php.net/manual/en/book.simplexml.php) objects
 
 # License
-Eventful, Inc license. Please see LICENSE.md for more information.
+Eventful, Inc license. Please see [LICENSE.md](https://github.com/realdark/eventful-web-api/blob/master/LICENSE) for more information.
