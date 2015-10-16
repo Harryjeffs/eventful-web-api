@@ -2,7 +2,7 @@
     "name": "realdark/eventful-web-api",
     "description": "A PHP implementation of Eventful's Web API.",
     "type": "library",
-    "license": "Eventful, Inc",
+    "license": "Eventful",
     "authors": [
         {
             "name": "realdark",
