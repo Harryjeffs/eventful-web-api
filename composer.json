@@ -1,0 +1,22 @@
+{
+    "name": "realdark/eventful-web-api",
+    "description": "A PHP implementation of Eventful's Web API.",
+    "type": "library",
+    "license": "Eventful, Inc",
+    "authors": [
+        {
+            "name": "realdark",
+            "email": "me@borislazarov.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.1",
+        "themattharris/tmhoauth": "0.8.*",
+        "fpoirotte/http_request2": "dev-trunk"
+    },
+    "autoload": {
+        "psr-4": {
+            "realdark\\eventful_web_api\\": "src/"
+        }
+    }
+}
