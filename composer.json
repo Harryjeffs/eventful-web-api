@@ -9,10 +9,16 @@
             "email": "me@borislazarov.com"
         }
     ],
+    "repositories": [
+    {
+      "type": "pear",
+      "url": "pear.php.net"
+    }
+  ],
     "require": {
         "php": ">=5.4.1",
         "themattharris/tmhoauth": "0.8.*",
-        "fpoirotte/http_request2": "dev-trunk"
+        "pear-pear.php.net/HTTP_Request2": "*"
     },
     "autoload": {
         "psr-4": {
